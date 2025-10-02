@@ -12,6 +12,6 @@ public class InClassExercise2 {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("version3");
+        System.out.println("version4");
     }
 }
